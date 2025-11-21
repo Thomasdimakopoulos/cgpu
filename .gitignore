@@ -1,6 +1,5 @@
 /dist
 /node_modules
-.env
 client_secret_*.json
-.env
 /gemini-cli
+config.bat
